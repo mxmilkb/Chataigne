@@ -1,0 +1,9 @@
+[submodule "JUCE"]
+	path = JUCE
+	url = https://github.com/benkuper/JUCE
+[submodule "juce_timeline"]
+	path = juce_timeline
+	url = https://github.com/benkuper/juce_timeline
+[submodule "juce_organicui"]
+	path = juce_organicui
+	url = https://github.com/benkuper/juce_organicui
